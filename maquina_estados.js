@@ -9,7 +9,7 @@ if (x == 0 && y == 1) {
 }
 
 else if (x == 1 && y == 0){
-		var maquina = "S2"
+	var maquina = "S2"
 }
 else{ 
 	alert("impossivel");
